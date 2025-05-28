@@ -3,8 +3,7 @@ This project explores and visualizes arrest data from Phoenix, Arizona, using Py
 
 The data was obtained from City of Phoenix Open Data at: https://www.phoenixopendata.com/dataset/arrests
 
-Check out the dashboard here: https://public.tableau.com/shared/6QPY5HZZ4?:display_count=n&:origin=viz_share_link
-
+Check out the dashboard here: https://public.tableau.com/views/PhoenixArrestsDashboard/PhoenixArrestsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 Key Features:
 - A map of Precinct-level Arrest Counts
 - A donut chart of Criminal Charge percentages
@@ -19,4 +18,4 @@ Insights:
 
 Recommendation:
 - The city should investigate Maryvale/Estrella Precinct, which consistently has the largest number of arrests in the city. 
-= Is the policing in that precinct heavier than other precincts leading to more frequent arrests? Or is crime rate in that precinct higher than other precincts in the city?
+- Is the policing in that precinct heavier than other precincts leading to more frequent arrests? Or is crime rate in that precinct higher than other precincts in the city?
