@@ -4,6 +4,7 @@ This project explores and visualizes arrest data from Phoenix, Arizona, using Py
 The data was obtained from City of Phoenix Open Data at: https://www.phoenixopendata.com/dataset/arrests
 
 Check out the dashboard here: https://public.tableau.com/views/PhoenixArrestsDashboard/PhoenixArrestsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Key Features:
 - A map of Precinct-level Arrest Counts
 - A donut chart of Criminal Charge percentages
