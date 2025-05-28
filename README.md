@@ -1,5 +1,7 @@
-# Phoenix Crime Dashboard
-For this project, I did some data cleaning before using Tableau to make a dashboard for Crime in Phoenix, Arizona and publishing it to Tableau Public.
+# Project Overview
+This project explores and visualizes crime data from Phoenix, Arizona, using Python for data cleaning and Tableau for dashboard creation. The goal is to identify crime trends across different precincts, time periods, and categories to help city officials or researchers better implement public safety policies.
+
+The data was obtained from City of Phoenix Open Data at: https://www.phoenixopendata.com/dataset/arrests
 
 Check out the dashboard here: https://public.tableau.com/shared/6QPY5HZZ4?:display_count=n&:origin=viz_share_link
 
